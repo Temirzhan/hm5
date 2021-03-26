@@ -1,3 +1,27 @@
 <resources>
-    <string name="app_name">hmNewCalcul</string>
+    <string name="app_name">My Application</string>
+    <string name="main_batton1">1</string>
+    <string name="main_batton2">2</string>
+    <string name="main_batton3">3</string>
+    <string name="main_batton_plus">+</string>
+    <string name="main_batton4">4</string>
+    <string name="menu_batton5">5</string>
+    <string name="menu_batton6">6</string>
+    <string name="menu_button_minus">-</string>
+    <string name="menu_button7">7</string>
+    <string name="menu_button8">8</string>
+    <string name="menu_button9">9</string>
+    <string name="menu_button_division">/</string>
+    <string name="menu_button0">0</string>
+    <string name="menu_button_point">.</string>
+    <string name="menu_button_equal">=</string>
+    <string name="multiplication">*</string>
+    <string name="clear">c</string>
+    <string name="my_style">My style</string>
+    <string name="material_light">Material light</string>
+    <string name="material_light_action_bar_dark">Material light action bar dark</string>
+    <string name="material_dark">Material dark</string>
+    <string name="save_style">save style</string>
+    <string name="settings">settings</string>
+
 </resources>
